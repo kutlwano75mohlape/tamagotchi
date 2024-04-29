@@ -1,0 +1,2 @@
+# tamagotchi
+tamagotchi app
